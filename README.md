@@ -10,6 +10,8 @@ Die Anwendung für den Magic Mirror ist als Vue Projekt umgesetzt worden, weil a
 - Nach außen nur ein Kabel sichtbar
 - Bewegungsmelder hinter dem Spiegel
 
+![Screenshot](magic-mirror.jpeg)
+
 # Einkaufsliste
 
 ## Bewegungsmelder
